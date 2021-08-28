@@ -17,7 +17,8 @@ SQL Server 2018/Json/Google Maps
 git clone https://github.com/LombaAnderson/WebService_SQLServer.git
 
 # Requisitos 
--instalar ou possuir SQL Server 2018
+-instalar ou possuir SQL Server 2018.
+- Acessar o Google Maps e utilizar o endereço pretendido.
 
 ___________
 
