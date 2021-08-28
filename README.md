@@ -4,9 +4,8 @@
 
 # Sobre o projeto
 
-Para consumir um  Web service não é preciso dar muitas voltas é somente necessário usar diretamente uma API no SQL Server e mapear com Json no Google.
-Nesse projeto foi utilizado uma API do Google e passado um endereço para a API que é devolvido um Json onde possui a latitude e longitude e com essas informações
-no navegador verificando no Google Maps vai ser possível verificar a localização.
+Para consumir um  Web service não é preciso dar muitas voltas... É somente necessário usar diretamente uma API no SQL Server e mapear com Json no Google.
+Nesse projeto foi utilizado uma API do Google e passado um endereço para a API. Nesse processo com a API é devolvido um Json onde possui a latitude e longitude e com essas informações no navegador verifica-se no Google Maps e dessa forma é possível ver a localização pretendida.
 
 
 # Tecnologias utilizadas
