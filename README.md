@@ -4,70 +4,28 @@
 
 # Sobre o projeto
 
-https://www.youtube.com/watch?v=kmsM_hHrDHE
+Para consumir um  Web service não é preciso dar muitas voltas é somente necessário usar diretamente uma API no SQL Server e mapear com Json no Google.
+Nesse projeto foi utilizado uma API do Google e passado um endereço para a API que é devolvido um Json onde possui a latitude e longitude e com essas informações
+no navegador verificando no Google Maps vai ser possível verificar a localização.
 
-Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pronta de um colega programador William Costa onde ele cria um projeto VueJS juntamente com Axios.
 
 # Tecnologias utilizadas
-## Back end
-- NodeJS/Npm
-
-
-## Front end 
-- HTML / CSS/ Vuejs/Axios
-- Axios: Hábil na interceptar requisições(requests) HTTP.
-
-Pré-requisitos: npm 
+SQL Server 2018/Json/Google Maps
 
 ```bash
 # clonar repositório
-git clone https://github.com/LombaAnderson/Site_VueJS.git
+git clone https://github.com/LombaAnderson/WebService_SQLServer.git
 
-# instalar dependências
-npm install
+# Requisitos 
+-instalar ou possuir SQL Server 2018
 
-## Como executar o projeto
-
-## Back end
-Pré-requisitos: NodeJS/Npm/Axios
-
-# criar a pasta do projeto no VS Code
-dev-site
-
-# Criar projeto VueJs
-vue create dev-site
-
-# Tipo de projeto Vuejs criado
-Default ([Vue 2] babel, eslint)
-
-# executar o projeto no terminal dentro da pasta dev-site
-npm run serve
-
-
-## Recursos para construção do projeto
-
-Mocks de APIs
-
-Esse repositório será o endpoint das APIs do front, então é necessário configurar a seguinte URL como base:
-
-https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/api
-
-A partir dessa URL teremos os seguintes recursos em Json:
-
-    Redes sociais GET /social-links.json
-    Vídeos GET /videos.json
-    Sobre GET /about.json
-    Contatos GET /contacts.json
-
-Redes sociais:
-Instagram: https://instagram.com/wdevoficial
-Facebook: https://facebook.com/wdevoficial
-Twitter: https://twitter.com/wdevoficial
-
-________
+___________
 
 Créditos
-Abertura utiliza vídeos do Pexel (https://www.pexels.com/) dos autores Carlos Arribas, Joseph Redfield e BuildWith Angga
+
+Canal do professor Drausio no youtube : https://www.youtube.com/watch?v=yhGcfYbNGP0.
+
+-Meus agradecimentos ao professor Drausio pelo conhecimento adquirido. 
 
 # Autor
 
